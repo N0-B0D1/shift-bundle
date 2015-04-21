@@ -1,0 +1,12 @@
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
